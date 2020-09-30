@@ -76,7 +76,7 @@ function deletarPasta(pasta) {
 }
 
 /*
-  Ler pasta é uma função que retorna UM OBJETO todos os arquivos, subarquivos e pastas e subpastas em questão, que existirem. INCLUINDO a pasta Pai, no nosso caso, a pasta "aula"
+  Ler pasta é uma função que retorna UM OBJETO "todos os arquivos" e "todas as pastas". INCLUINDO a pasta Pai, no nosso caso, a pasta "aula"
 */
 
 function lerPasta(pastaPai) {
